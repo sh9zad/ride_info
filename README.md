@@ -12,7 +12,7 @@ python3 main.py --action [run_test|rankings]
      * Some of the tests are based on the data available so if we change the data we need to change the test acceptance criteria too.
  * **rankings** will print the latest rankings. 
 
-###Notes
+### Notes
 * The idea behind the implementation is that, the rankings are going to be submitted to some sort of database.  
 * The CSV files in the **data** folder are mimicking a possible data structure where we have 
     * Drivers
