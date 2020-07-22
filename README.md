@@ -8,7 +8,7 @@
 ```bash
 python3 main.py --action [run_test|rankings]
 ```
-* **run_test** will execute some basic test to make sure the systems works properly.
+* **run_test** will execute some basic tests to make sure the system is works as expected.
      * Some of the tests are based on the data available so if we change the data we need to change the test acceptance criteria too.
  * **rankings** will print the latest rankings. 
 
